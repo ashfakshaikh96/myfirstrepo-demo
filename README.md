@@ -1,2 +1,2 @@
-# myfirstrepo-demo
+# Myfirst-demo
 This is my first repository on Github
